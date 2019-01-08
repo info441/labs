@@ -12,7 +12,7 @@
 ![Slack Architecture AWS](./imgs/slack-arch-diagram.png)
 
 #### Why is this important?
-- Regardless of what your endeavors are for you career in technology, it's always important to understand how things work. Perhaps not entirely, but to an extent. The goal of this course is to make you more curious about how large systems in our world currently operate. Ideally, we hope everyone walks away from this course, comfortable understanding the underlying architecture and processes, that are require of any major system. 
+- Regardless of what your endeavors are for you career in technology, it's always important to understand how things work. Perhaps not entirely, but to an extent. The goal of this course is to make you more curious about how large systems in our world currently operate. Ideally, we hope everyone walks away from this course comfortable understanding the underlying architecture and processes that are required of any major system. 
 - Even though you're building a basic chat application, the fundamental concepts and technologies we will cover is utilized in almost all large systems. Systems like **Amazon**, **Dropbox**, **Uber** (just to name a few) all utilized the concepts we will cover.
 - That being said, what you'll learn will also help you present yourself as a viable candidate when it comes to applying for internships or jobs.
 
