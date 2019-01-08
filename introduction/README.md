@@ -31,15 +31,15 @@
   - Slack (for HW questions, concept clarification), Canvas Discussion (course logistics, policy), Email (grading)
 - **Schedule**
   - 7 Assignments 1 Final Project (90% of grade)
-    	- Each assignment builds on each other
-    	- Due every Monday at midnight
-    	- EC Options are not limited
+    - Each assignment builds on each other
+    - Due every Monday at midnight
+    - EC Options are not limited
   - 2 exercises per week (10% of grade)
-    	- Must be present due to access code
-    	- Due either ten minutes after class or midnight that night
+    - Must be present due to access code
+    - Due either ten minutes after class or midnight that night
 - **Late Work**
   - 5 late days, 3 missed exercises
-		- In general, assignments build on each other so don’t be late
+	- In general, assignments build on each other so don’t be late
   - 10% after late days are used, by default we won't use your late days unless specified by you in submission comments
   - Extenuating circumstances must be expressed through email with all staff
 - **Grading**
@@ -47,7 +47,6 @@
   - 1 week to fix mistakes for 50% of lost points (this helps us and you because errors cascade)
   - Regrades must be submitted via email with both of us cced
   - iSchool conversion chart.
-
 
 ## Expectations
 - **Readings**
@@ -65,13 +64,13 @@
   - Submit PRs as well as Canvas submission
   - EC Options attempted should be in submission comments + pr description
   - Make sure service is always up and running unless we tell you to turn them off
-  		- We will message you about this
+  	- We will message you about this
   - Keep up with fixing mistakes (provided we give you feedback)
 - **Coding Style**
   - Use stuff learned from CSE 142/143, INFO 201/343, etc. Few examples:
-    	- Appropriate variable/function naming convention
-    	- DRY (Don't Repeat Yourself) principle
-    	- Split large amounts of code to smaller functions (Refactor)
+    - Appropriate variable/function naming convention
+    - DRY (Don't Repeat Yourself) principle
+    - Split large amounts of code to smaller functions (Refactor)
   -  If you find a better way of doing something, do it.
 - **Questions**
   - Reassess your code, one little bug can do wonders
@@ -98,7 +97,6 @@
 - Break down assignment and estimate how long it'll take to do each section
 - Aim to get as much done early so you can plan for questions
 - Do extra credit
-
 
 **Closing Notes:** This course demands a lot from you, but we promise it’ll be very rewarding. That being said, we are here to support you. Let’s have fun!
 
